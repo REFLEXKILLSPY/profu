@@ -14,3 +14,6 @@ while True:
          break
     
 print('End server')
+
+
+x ="1"
